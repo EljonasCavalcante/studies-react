@@ -1,7 +1,7 @@
 import React from 'react';
-import Button from './components/button';
-import Form from './components/form';
-import List from './components/list';
+import Button from '../components/button';
+import Form from '../components/form';
+import List from '../components/list';
 
 function App() {
   return (
